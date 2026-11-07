@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sladkiy-akcent.ru/sitemap.xml
